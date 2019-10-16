@@ -2,7 +2,7 @@
 
 Dated - 05 October 2019
 
-Under this challenge, I commit to code atleast 1 hour every single day for 100 days continuously.
+Under this challenge, I commit to code atleast 1 hour every single day for 7 days continuously.
 
 Contents -
  
