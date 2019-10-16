@@ -1,4 +1,4 @@
-# 100 Days of Code
+# 7 Days of Code
 
 Dated - 05 October 2019
 
